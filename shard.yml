@@ -1,0 +1,13 @@
+name: squares
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  squares:
+    main: src/squares.cr
+
+crystal: '>= 1.10.0'
+
+license: MIT
